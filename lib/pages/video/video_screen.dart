@@ -45,7 +45,7 @@ class VideoScreenState extends State<VideoScreen> {
             fit: BoxFit.cover,
           )
       ),
-      child: new Scaffold(
+      child: new S
         backgroundColor: Colors.transparent,
         appBar: new AppBar(
           title: Text('Club SIM'),

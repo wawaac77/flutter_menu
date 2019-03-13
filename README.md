@@ -7,4 +7,5 @@ Multiple flutter features are used:
 - WebviewScffold used to display and interaction with web page (lib/pages/web/web_screen)
 - User real-time comment layout (lib/pages/video/chat_screen)
 - Interaction with platfor-specific pages, used iOS native player to play video with signed cookie
-https://github.com/wawaac77/flutter_menu/blob/master/ios/Runner/Video/images/screencap_comment_screen.png
+![user comment page](https://github.com/wawaac77/flutter_menu/blob/master/ios/Runner/Video/images/screencap_comment_screen.png)
+
